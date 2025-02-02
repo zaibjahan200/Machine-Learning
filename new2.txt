@@ -1,0 +1,10 @@
+How do we process data?
+1. Load data into the program
+2. Perform operations for EDA (Exploratory data analysis)
+-- Data Exploration
+-- Data Cleaning(We usually use median and mod(Most repeated value in dataset))
+
+- Data Visualization libraries- Matplotlib,plotly,Seaborn are famous
+
+3. Modeling: throuh sciket learn
+-- Provide features to be processed for AI.
